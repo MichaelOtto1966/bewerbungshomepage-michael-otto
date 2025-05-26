@@ -18,7 +18,7 @@ E-Mail: info(at)bksd.de<br>
 
 Webdesign und Realisation: Michael Otto
 
-## Haftungsausschluss ##
+## Haftungsausschluss
 
 1. **Inhalte der Website des Berufskollegs Kaufmännische Schulen des Kreises Düren** - Das Berufskolleg übernimmt keine Gewähr für die Aktualität, Korrektheit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Jegliche Ansprüche auf Haftung gegenüber der Schule, die durch die Nutzung des Online-Angebotes entstehen, seien sie materieller oder ideeller Art, sind ausgeschlossen, sofern seitens der Schule kein vorsätzliches oder grob fahrlässiges Verschulden besteht. Das gesamte Angebot der Website und aller damit zusammenhängenden Dateien ist unverbindlich.
 
